@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 !</h1>
+<h1 align="center">Hi there ! 👋</h1>
 <h3 align="center">We are Trackflaw, a fresh and french new startup specializing in offensive security</h3>
 
 <p align="left"> <a href="https://twitter.com/trackflaw" target="blank"><img src="https://img.shields.io/twitter/follow/trackflaw?logo=twitter&style=for-the-badge" alt="trackflaw" /></a> </p>
